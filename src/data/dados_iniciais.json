@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Musicas",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Criando um projeto do zero para seu portfólio",
+          "url": "https://youtu.be/EhnXaybirdA"
+        },
+        {
+          "titulo": "Fernando & Sorocaba - Sem Reação",
+          "url": "https://youtu.be/AlJFFGCnzBM"
+        },
+        {
+          "titulo": "Marcos & Belutti - Tentei Te Esquecer",
+          "url": "https://youtu.be/tgQ9GWK1EZ4"
+        },
+        {
+          "titulo": "Atitude 67 - Tudo ao contrário",
+          "url": "https://youtu.be/2Cqu0hoTQUo"
+        },
+        {
+          "titulo": "Thiaguinho - Deixa Tudo Como Tá",
+          "url": "https://youtu.be/fX-pB-s52LY"
+        },
+        {
+          "titulo": "Lucca e Mateus - Explica esse rolê",
+          "url": "https://youtu.be/qmPiPlsAFI4?list=RDtgQ9GWK1EZ4"
+        },
+        {
+          "titulo": "Conrado e Aleksandro - Mayday",
+          "url": "https://youtu.be/EhRNE_Txw6Y"
+        }      
+      ]
+    },
+    {
+      "titulo": "Stand UP",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Especial do Afonso Padilha",
+          "url": "https://youtu.be/BmQswwdkj_E"
+        },
+        {
+          "titulo": "Especial do Thiago Ventura",
+          "url": "https://youtu.be/X-5tCDJ_XDg"
+        },
+        {
+          "titulo": "Especial do Marcio Donato",
+          "url": "https://youtu.be/4J8y2vz7bws"
+        },
+        {
+          "titulo": "Especial do Marcus Cirilo",
+          "url": "https://youtu.be/_qNEs4zoU_E"
+        }
+      ]
+    },
+    {
+      "titulo": "Sao Paulo",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Bastidores de São Paulo x Corinthians",
+          "url": "https://youtu.be/bcUZdlibWhw"
+        },
+        {
+          "titulo": "Bastidores de São Paulo x Tigre",
+          "url": "https://youtu.be/E-TgpN-NhzY"
+        },
+        {
+          "titulo": "Bastidores de São Paulo x River Plate",
+          "url": "https://youtu.be/qnHUOn-LJQE"
+        },
+        {
+          "titulo": "Bastidores de São Paulo x LDU",
+          "url": "https://youtu.be/7epiW_GUeus"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Gente Grande",
+          "url": "https://youtu.be/gz8zMpSV1zU"
+        },
+        {
+          "titulo": "Truque de mestre",
+          "url": "https://youtu.be/BqXnvWADHdo"
+        },
+        {
+          "titulo": "Gigantes de Aço",
+          "url": "https://youtu.be/AOHz3Rx7H5k"
+        },
+        {
+          "titulo": "Scooby-doo 2",
+          "url": "https://youtu.be/TT76WvGRGEs"
+        },
+        {
+          "titulo": "Velozes e Furiosos 5",
+          "url": "https://youtu.be/eHNDC5uU044"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "blue",
+      "videos": [
+        {
+          "titulo": "Fullmetal Alchemist Brotherhood",
+          "url": "https://youtu.be/AKvvXKGzlOA"
+        },
+        {
+          "titulo": "Pokemon",
+          "url": "https://youtu.be/FvmUz9QK5aA"
+        },
+        {
+          "titulo": "Nanatsu No Taizai",
+          "url": "https://youtu.be/WK-EUELKb9A"
+        },
+        {
+          "titulo": "Super Onze",
+          "url": "https://youtu.be/Mvj8dCqy0SE"
+        }
+      ]
+    },
+    {
+      "titulo": "Filosofia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Clóvis de Barros Filho A vida que vale a pena ser vivida",
+          "url": "https://youtu.be/WUw71Uiyaqo"
+        },
+        {
+          "titulo": "A maioria de nós poderia ser mais do que é",
+          "url": "https://youtu.be/76m76Bg9mkA"
+        },
+        {
+          "titulo": "Vaca Não Dá Leite - Mario Sergio Cortella",
+          "url": "https://youtu.be/cWW3hHkBpUk"
+        },
+        {
+          "titulo": "Clóvis de Barros Filho",
+          "url": "https://youtu.be/X06hLYNpB1s"
+        }
+      ]
+    }
+  ]
+}
