@@ -5,7 +5,7 @@
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
@@ -43,7 +43,7 @@
       "titulo": "Stand UP",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -67,7 +67,7 @@
     },
     {
       "titulo": "Sao Paulo",
-      "cor": "red",
+      "cor": "#d32f2f ",
       "videos": [
         {
           "titulo": "Bastidores de São Paulo x Corinthians",
@@ -139,7 +139,7 @@
       "titulo": "Filosofia",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
